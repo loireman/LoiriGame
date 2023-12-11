@@ -1,0 +1,20 @@
+﻿  Game.cpp
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:         with
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:         [
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:             T=unsigned int
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:         ]
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:         and
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:         [
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:             T=float
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,90): warning C4244:         ]
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:         with
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:         [
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:             T=unsigned int
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:         ]
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:         and
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:         [
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:             T=float
+C:\Users\loireman\Desktop\LoiriGame\Game.cpp(84,63): warning C4244:         ]
+  LoiriGame.vcxproj -> C:\Users\loireman\Desktop\LoiriGame\x64\Debug\LoiriGame.exe
